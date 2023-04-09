@@ -2,11 +2,11 @@
 ## _Локальный репозиторий_
 
 __1. Git basics__
-+ git init - 
-+ git clone
-+ git add
-+ git commit
-+ git push
++ git init - *will create a new local GIT repository*
++ git clone - *is used to copy a repository*
++ git add - *add a file as it looks now to your next commit (stage)*
++ git commit - *will create a snapshot of the changes and save it to git directory*
++ git push - *push local changes to the original*
 
 __2. Make and change__+ 
 + git status
