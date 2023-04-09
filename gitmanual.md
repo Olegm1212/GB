@@ -1,25 +1,27 @@
-# **Краткое руководство по GIT
+# **Краткое руководство по GIT**
+## _Локальный репозиторий_
 
-## _**Локальный репозиторий_
+__1. Git basics__
++ git init - 
++ git clone
++ git add
++ git commit
++ git push
 
-1. Git basics
-git init - 
-git clone
-git add
-git commit
-git push
-2. Make and change
-git status
-git diff
-git add [file]
-git commit -m"[discriptive message]"
-3. Git branching and merging
-git branch
-git checkout
-git merge
-git log
-4. Synchronize
-git remote add <name> <url>
-git fetch
-git pull
-git push
+__2. Make and change__+ 
++ git status
++ git diff
++ git add [file]
++ git commit -m"[discriptive message]"
+
+__3. Git branching and merging__
++ git branch
++ git checkout
++ git merge
++ git log
+
+__4. Synchronize__
++ git remote add <name> <url>
++ git fetch
++ git pull
++ git push
