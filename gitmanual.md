@@ -28,5 +28,5 @@ __4. Synchronize__
 + git pull - *get all the latest changes from the origin and merge*
 + git push - *is used to upload your local repository changes to the origin remote repo*
 
-##**Работа с ветками**
+## **Additional commands**
 
