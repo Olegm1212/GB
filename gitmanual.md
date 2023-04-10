@@ -1,6 +1,6 @@
 
-# **Краткое руководство по GIT (Short manual)**
-## _Локальный репозиторий_
+# **GIT Short Manual)**
+## _Local repository_
 
 __1. Git basics__
 + git init - *will create a new local GIT repository*
