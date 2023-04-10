@@ -29,4 +29,4 @@ __4. Synchronize__
 + git push - *is used to upload your local repository changes to the origin remote repo*
 
 ## **Additional commands**
-
+git commit -am "comment"
