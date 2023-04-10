@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # **Краткое руководство по GIT (Short manual)**
 ## _Локальный репозиторий_
+=======
+# **Краткое руководство по GIT**
+## _Локальный репозиторий (Local repo)_
+>>>>>>> case2
 
 __1. Git basics__
 + git init - *will create a new local GIT repository*
@@ -28,3 +33,4 @@ __4. Synchronize__
 + git push - *is used to upload your local repository changes to hte origin remote repo*
 
 ##**Работа с ветками**
+
